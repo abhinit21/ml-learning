@@ -1,0 +1,8 @@
+# IDEs
+.idea/
+
+# Virtualenv
+.venv/
+
+# User-specific stuff
+sync-requirements.py
