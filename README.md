@@ -1,3 +1,9 @@
+## Thank Your for taking time to Evaluate! Happy to connect 🤗
+
+[Discord](https://discord.com/users/757504251617345626)
+
+---
+
 ## Deliverables
 
 For a project, you repository/folder should contain the following:
