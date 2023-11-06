@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 pandas = "*"
+plotly = "*"
+scikit-learn = "*"
+flask = "*"
 
 [dev-packages]
 jupyter = "*"
