@@ -6,4 +6,4 @@ flask
 requests
 tqdm
 xgboost
-tensorflow
+keras
